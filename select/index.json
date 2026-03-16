@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "あかときリロード",
+  "base_artist": "aiko",
+  "createdAt": "2026-03-16T09:42:46.053843Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "あかときリロード",
+      "artist": "aiko",
+      "has_synced": false,
+      "path": "select/pl_01_あかときリロード_aiko.txt"
+    }
+  ]
+}
